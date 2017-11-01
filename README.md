@@ -1,1 +1,1 @@
-# Hello-World
+「Hello-World」程式範例在電腦學習上有悠久的歷史，引領許多人走入程式語言，幫助我們熟悉由 0 跟 1 構成的世界。只要是 IT 人，對 Hello-World 程式一定不陌生。開始上手 GitHub 的第一步就從 Hello- World 專案開始吧。  在 GitHub 上開啟專案並不難。首先申請帳號並開啟一個專案儲存庫，並且在本機端安裝 SourceTree、GitHub for Windows 等 Git GUI 工具，同步本機端儲存庫與遠端儲存庫，就可以開始進行版本控制。GitHub 是以 Git 為核心的線上協作平臺，使用議題（Issue）、新開分支（Branch）、維基（Wiki）、拉取要求（Pull Request）等功能，開發者能更有效率的進行版本控制，並且線上上合作、討論專案及透過 GitHub 分享程式碼。
